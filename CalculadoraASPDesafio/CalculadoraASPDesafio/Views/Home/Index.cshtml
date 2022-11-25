@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<style>
+    .divText{
+        text-align: center;
+        margin: auto;
+        margin-top:30px;
+    }
+</style>
+<div class="divText">
+    @Html.TextBox("Visor")
+</div>
+<div style="
+        display:grid;
+        margin:30px;
+        justify-content:center;
+        grid-template-columns:30px 30px 30px;
+    ">
+
+    <input type="button" class="botao" value="0" />
+    <input type="button" class="botao" value="1" />
+    <input type="button" class="botao" value="2" />
+    <input type="button" class="botao" value="3" />
+    <input type="button" class="botao" value="4" />
+    <input type="button" class="botao" value="5" />
+    <input type="button" class="botao" value="6" />
+    <input type="button" class="botao" value="7" />
+    <input type="button" class="botao" value="8" />
+    <input type="button" class="botao" value="9" />
+    <input type="button" class="botao" value="+" />
+    <input type="button" class="botao" value="-" />
+    <input type="button" class="botao" value="*" />
+    <input type="button" class="botao" value="/" />
+    <input type="button" class="calcularTudo" onclick="Calcular()" value="=" />
+    <p style="text-align:center;color:blue;grid-column:2;padding:20px;" id="saida"></p>
+</div>
+<script src="~/Scripts/Home/Index.js"></script>

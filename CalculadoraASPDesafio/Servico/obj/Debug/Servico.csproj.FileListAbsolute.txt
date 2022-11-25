@@ -1,0 +1,6 @@
+C:\Users\marce\Desktop\C# React\CalculadoraASPDesafio\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\C# React\CalculadoraASPDesafio\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\C# React\CalculadoraASPDesafio\Servico\bin\Debug\Servico.dll
+C:\Users\marce\Desktop\C# React\CalculadoraASPDesafio\Servico\bin\Debug\Servico.pdb
+C:\Users\marce\Desktop\C# React\CalculadoraASPDesafio\Servico\obj\Debug\Servico.dll
+C:\Users\marce\Desktop\C# React\CalculadoraASPDesafio\Servico\obj\Debug\Servico.pdb

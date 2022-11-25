@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraASPDesafio", "CalculadoraASPDesafio\CalculadoraASPDesafio.csproj", "{875F9379-30FB-48BD-9884-49F06993D70A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servico", "Servico\Servico.csproj", "{341333CE-AEEC-4E9B-8F3F-F3746AB81876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875F9379-30FB-48BD-9884-49F06993D70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875F9379-30FB-48BD-9884-49F06993D70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875F9379-30FB-48BD-9884-49F06993D70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875F9379-30FB-48BD-9884-49F06993D70A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341333CE-AEEC-4E9B-8F3F-F3746AB81876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341333CE-AEEC-4E9B-8F3F-F3746AB81876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341333CE-AEEC-4E9B-8F3F-F3746AB81876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341333CE-AEEC-4E9B-8F3F-F3746AB81876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FDFB90C-376B-45ED-849A-272221B7005E}
+	EndGlobalSection
+EndGlobal
